@@ -260,10 +260,12 @@ dimwishlist:item=3799980700&perks=3425386926,1015611457
 
 
 // Xenoclast IV - Assault, Auto-Loading and Vorpal ()
+//notes: Assault, Auto-Loading and Vorpal
 dimwishlist:item=2891672170&perks=791862061,3300816228,1546637391
 
 
 // Xenoclast IV - Assault + melee dmg perks ()
+//notes: Assault + melee dmg perks
 dimwishlist:item=2891672170&perks=791862061,2679249093
 dimwishlist:item=2891672170&perks=791862061,2360754333
 dimwishlist:item=2891672170&perks=791862061,4082225868
