@@ -243,8 +243,9 @@ dimwishlist:item=2488587246&perks=2946784966,1015611457
 dimwishlist:item=2990047042&perks=588594999,957782887
 
 
-// Unforgiven - Golden Tricorn ()
+// Unforgiven - Golden Tricorn, hopefully with Demolitionist ()
 dimwishlist:item=3000847393&perks=2610012052
+dimwishlist:item=3000847393&perks=3523296417,2610012052
 
 
 // Vision of Confluence - Frenzy ()
