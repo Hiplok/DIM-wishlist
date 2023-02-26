@@ -1,10 +1,5 @@
 title:Hiplok
 
-// Enyo-D ()
-//notes: Well-Rounded and Wellspring for ability spam and stats.
-Recommended for Behemoth
-dimwishlist:item=1601177201&perks=3250034553,3142289711,744594675,3592538738
-
 
 // Ogma PR6 ()
 //notes: Adaptive Munitions + Disruption Break for breaking shields and making vulnerable to Kinetic dmg
@@ -16,35 +11,10 @@ dimwishlist:item=2342054803&perks=1048183818,1683379515
 dimwishlist:item=2448907086&perks=3300816228
 
 
-// Strident Whistle ()
-//notes: Harmony
-dimwishlist:item=2591241074&perks=2801223209,3827198035,438098033
-dimwishlist:item=2591241074&perks=2801223209,3311977193,438098033
-dimwishlist:item=2591241074&perks=2801223209,3429800428,438098033
-dimwishlist:item=2591241074&perks=4067834857,3827198035,438098033
-dimwishlist:item=2591241074&perks=4067834857,3311977193,438098033
-dimwishlist:item=2591241074&perks=4067834857,3429800428,438098033
-dimwishlist:item=2591241074&perks=852209214,3827198035,438098033
-dimwishlist:item=2591241074&perks=852209214,3311977193,438098033
-dimwishlist:item=2591241074&perks=852209214,3429800428,438098033
-
-
-// Strident Whistle ()
-//notes: Adrenaline Junkie for 1-shots
-dimwishlist:item=2591241074&perks=2801223209,3827198035,11612903
-dimwishlist:item=2591241074&perks=2801223209,3311977193,11612903
-dimwishlist:item=2591241074&perks=2801223209,3429800428,11612903
-dimwishlist:item=2591241074&perks=4067834857,3827198035,11612903
-dimwishlist:item=2591241074&perks=4067834857,3311977193,11612903
-dimwishlist:item=2591241074&perks=4067834857,3429800428,11612903
-dimwishlist:item=2591241074&perks=852209214,3827198035,11612903
-dimwishlist:item=2591241074&perks=852209214,3311977193,11612903
-dimwishlist:item=2591241074&perks=852209214,3429800428,11612903
-
-
 // Staccato-46 ()
 //notes: Adaptive Munitions
 dimwishlist:item=4019668921&perks=1048183818
+
 
 // The Militia's Birthright ()
 //notes: From comments on: https://youtu.be/DdLsyLVDGEQ
@@ -203,8 +173,14 @@ dimwishlist:item=2988121501&perks=1570042021,1015611457
 //notes: https://youtu.be/WAFfCNa3NdQ
 dimwishlist:item=2988121501&perks=2450788523,2846385770
 
+
 // The Long Walk - Overflow ()
 dimwishlist:item=3326850591&perks=3643424744
+
+
+// Fatebringer - Osmosis Junkie ()
+dimwishlist:item=2171478765&perks=1774574192,11612903
+
 
 // Fatebringer (Timelost) - Time-worn ()
 dimwishlist:item=1216319404&perks=3038247973,3824105627
@@ -220,10 +196,6 @@ dimwishlist:item=1780464822&perks=1968497646,1048183818
 
 // Lingering Dread - Auto-Loading Blinding Chill Clip ()
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
-
-
-// Fatebringer - Osmosis Junkie ()
-dimwishlist:item=2171478765&perks=1774574192,11612903
 
 
 // The Militia's Birthright (Adept) - Auto-Loading ()
@@ -243,18 +215,14 @@ dimwishlist:item=2488587246&perks=2946784966,1015611457
 dimwishlist:item=2990047042&perks=588594999,957782887
 
 
+
 // Unforgiven - Golden Tricorn, hopefully with Demolitionist ()
 dimwishlist:item=3000847393&perks=2610012052
 dimwishlist:item=3000847393&perks=3523296417,2610012052
 
 
-// Vision of Confluence - Frenzy ()
-dimwishlist:item=3186018373&perks=4104185692
-
-
 // Stormchaser - Firing Line ()
 dimwishlist:item=3652506829&perks=1771339417
-
 
 // Transfiguration - Double dmg perks ()
 dimwishlist:item=3799980700&perks=3425386926,1015611457
@@ -290,6 +258,7 @@ dimwishlist:item=3568377122&perks=3525010810,409831596,951095735
 dimwishlist:item=3568377122&perks=981914802,409831596,951095735
 dimwishlist:item=3568377122&perks=3798852852,409831596,951095735
 
+
 // Punching Out ()
 //notes: Harmony
 dimwishlist:item=378498222&perks=438098033
@@ -314,10 +283,40 @@ dimwishlist:item=2009277538&perks=445755705,3230963543,1015611457
 dimwishlist:item=2009277538&perks=445755705,679225683,1015611457
 dimwishlist:item=2009277538&perks=445755705,1561002382,1015611457
 
+
 // Lodbrok-C - Target Lock ()
 //notes: https://www.youtube.com/watch?v=H5nzfJw25JU
 dimwishlist:item=2328531378&perks=365154968
 
+
 // High Albedo ()
 //notes: Headseeker https://youtu.be/w2i5nKECw2Y
 dimwishlist:item=1197486957&perks=460017080
+
+
+// Wendigo GL3 (Adept) - Explosive Light ()
+//notes: Prefer high velocity/handling, as low blast radius as possible, and Spike Grenades, but these are all minor increases.
+https://youtu.be/PQ9X1NMkjWw
+dimwishlist:item=555148853&perks=3300816228,3194351027
+dimwishlist:item=555148853&perks=2869569095,3194351027
+
+
+// Fioritura-59 - Pugilist with Void ()
+//notes: Repulsor Brace for overshields or Golden Tricorn for easy dmg
+High range preferred
+https://youtu.be/A5LEkPuoEBI
+dimwishlist:item=2566006935&perks=691659142,776531651
+dimwishlist:item=2566006935&perks=691659142,2610012052
+
+
+// Liminal Vigil - Headstone ()
+//notes: Prefer Desperado, Surrounded or even Swashbuckler in 4th column
+High stability - Aggressive frames already pretty good for range
+https://youtu.be/uiFML-snv_I
+dimwishlist:item=3138208275&perks=124408337
+
+
+// Liminal Vigil - Tap the Trigger ()
+//notes: High stability, preferably 60+, will make Tap the Trigger 100 - laser beam
+https://youtu.be/uiFML-snv_I
+dimwishlist:item=3138208275&perks=1890422124
