@@ -252,6 +252,7 @@ dimwishlist:item=1280894514&perks=3400784728,4082225868
 
 
 // BrayTech Werewolf - Pugilist Swashbuckler ()
+//notes: Pugilist and Swashbuckler combo
 dimwishlist:item=2869466318&perks=691659142,4082225868
 
 
@@ -263,7 +264,7 @@ dimwishlist:item=3568377122&perks=981914802,409831596,951095735
 dimwishlist:item=3568377122&perks=3798852852,409831596,951095735
 
 
-// Punching Out ()
+// Punching Out - Harmony ()
 //notes: Harmony
 dimwishlist:item=378498222&perks=438098033
 
@@ -299,28 +300,22 @@ dimwishlist:item=1197486957&perks=460017080
 
 
 // Wendigo GL3 (Adept) - Explosive Light ()
-//notes: Prefer high velocity/handling, as low blast radius as possible, and Spike Grenades, but these are all minor increases.
-https://youtu.be/PQ9X1NMkjWw
+//notes: Prefer high velocity/handling, as low blast radius as possible, and Spike Grenades, but these are all minor increases. https://youtu.be/PQ9X1NMkjWw
 dimwishlist:item=555148853&perks=3300816228,3194351027
 dimwishlist:item=555148853&perks=2869569095,3194351027
 
 
 // Fioritura-59 - Pugilist with Void ()
-//notes: Repulsor Brace for overshields or Golden Tricorn for easy dmg
-High range preferred
-https://youtu.be/A5LEkPuoEBI
+//notes: Repulsor Brace for overshields or Golden Tricorn for easy dmg. High range preferred. https://youtu.be/A5LEkPuoEBI
 dimwishlist:item=2566006935&perks=691659142,776531651
 dimwishlist:item=2566006935&perks=691659142,2610012052
 
 
 // Liminal Vigil - Headstone ()
-//notes: Prefer Desperado, Surrounded or even Swashbuckler in 4th column
-High stability - Aggressive frames already pretty good for range
-https://youtu.be/uiFML-snv_I
+//notes: Headstone. Prefer Desperado, Surrounded or even Swashbuckler in 4th column. High stability - Aggressive frames already pretty good for range. https://youtu.be/uiFML-snv_I
 dimwishlist:item=3138208275&perks=124408337
 
 
-// Liminal Vigil - Tap the Trigger ()
-//notes: 60+ stability will make Tap the Trigger 100 - laser beam
-https://youtu.be/uiFML-snv_I
+// Liminal Vigil - Tap the Trigger (test)
+//notes: Tap the Trigger. 60+ stability will make Tap the Trigger 100 - laser beam. https://youtu.be/uiFML-snv_I
 dimwishlist:item=3138208275&perks=1890422124
