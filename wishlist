@@ -165,34 +165,27 @@ dimwishlist:item=2988121501&perks=1570042021,1015611457
 //notes: https://youtu.be/WAFfCNa3NdQ
 dimwishlist:item=2988121501&perks=2450788523,2846385770
 
-
 // The Long Walk - Overflow ()
 //notes: Overflow
 dimwishlist:item=3326850591&perks=3643424744
-
 
 // Fatebringer - Osmosis Junkie ()
 //notes: Osmosis Junkie
 dimwishlist:item=2171478765&perks=1774574192,11612903
 
-
 // Fatebringer (Timelost) - Time-worn ()
 //notes: I just want a Time-worn one
 dimwishlist:item=1216319404&perks=3038247973,3824105627
-
 
 // Fatebringer (Timelost) - Osmosis Junkie ()
 //notes: Osmosis Junkie
 dimwishlist:item=1216319404&perks=1774574192,11612903
 
-
 // New Purpose - Armor-Piercing Adaptive Munitions ()
 dimwishlist:item=1780464822&perks=1968497646,1048183818
 
-
 // Lingering Dread - Auto-Loading Blinding Chill Clip ()
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
-
 
 // The Militia's Birthright (Adept) - Auto-Loading ()
 //notes: From comments on: https://youtu.be/DdLsyLVDGEQ
@@ -203,11 +196,9 @@ dimwishlist:item=2378101424&perks=409831596,706527188,3300816228
 dimwishlist:item=2378101424&perks=3301904089,2039302152,3300816228
 dimwishlist:item=2378101424&perks=3301904089,706527188,3300816228
 
-
 // The Hero's Burden - Tunnel Clip ()
 //notes: Tunnel Clip
 dimwishlist:item=2488587246&perks=2946784966,1015611457
-
 
 // Unforgiven - Golden Tricorn, hopefully with Demolitionist ()
 //notes: Golden Tricorn, hopefully with Demolitionist
@@ -374,3 +365,7 @@ dimwishlist:item=522366885&perks=791862061,3523296417,4104185692
 // Long Arm ()
 //notes: https://youtu.be/B3cqENPb0-0?t=260
 dimwishlist:item=8293111&perks=1866048759,3038247973
+
+// Randy's Throwing Knife ()
+//notes: I dunno how good this is, but it could be great
+dimwishlist:item=3292795429&perks=2551157718
