@@ -165,6 +165,11 @@ dimwishlist:item=2988121501&perks=1570042021,1015611457
 //notes: https://youtu.be/WAFfCNa3NdQ
 dimwishlist:item=2988121501&perks=2450788523,2846385770
 
+
+// Out of Bounds - Demo and Golden Tricorn ()
+dimwishlist:item=2988121501&perks=3523296417,2610012052
+
+
 // The Long Walk - Overflow ()
 //notes: Overflow
 dimwishlist:item=3326850591&perks=3643424744
