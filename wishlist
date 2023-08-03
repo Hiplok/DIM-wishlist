@@ -305,14 +305,8 @@ dimwishlist:item=2566006935&perks=691659142,2610012052
 //notes: Headstone. Prefer Swashbuckler, Desperado or even Surrounded in 4th column. High stability - Aggressive frames already pretty good for range. https://youtu.be/uiFML-snv_I
 dimwishlist:item=3138208275&perks=124408337
 
-
-// Liminal Vigil - Tap the Trigger ()
-//notes: Tap the Trigger. 60+ stability will make Tap the Trigger 100 - laser beam. https://youtu.be/uiFML-snv_I
-dimwishlist:item=3138208275&perks=1890422124
-
 // Autumn Wind ()
-//notes: Dueling roll - https://youtu.be/qjFfKGT-W4Y
-dimwishlist:item=3110377595&perks=2846385770,460017080
+dimwishlist:item=3110377595&perks=691659142,4082225868
 
 // Battle Scar ()
 //notes: Kinetic Tremors + Shoot To Loot
@@ -320,7 +314,7 @@ dimwishlist:item=3110377595&perks=2846385770,460017080
 dimwishlist:item=2099894368&perks=3700496672,3891536761
 
 // Jorum's Claw ()
-//notes: Encore + Golden Tricorn https://youtu.be/Qthcfw1_0cU
+//notes: Encore + Golden Tricorn https://youtu.be/Qthcfw1_0cU and https://youtu.be/5q7jCupuNU0
 dimwishlist:item=62937067&perks=1195158366,2610012052
 
 // Harsh Language ()
