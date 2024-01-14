@@ -4,27 +4,22 @@ title:Hiplok
 //notes: Headstone go brrrr
 dimwishlist:item=235827225&perks=124408337
 
-
 // Herod-C - Armor-Piercing Headstone ()
 //notes: Armor-Piercing Headstone
 dimwishlist:item=1788603939&perks=1968497646,124408337
-
 
 // Out of Bounds - Tap the Trigger options ()
 //notes: https://youtu.be/WAFfCNa3NdQ
 dimwishlist:item=2988121501&perks=1428297954,1890422124
 dimwishlist:item=2988121501&perks=1359896290,1890422124
 
-
 // Out of Bounds - Gravebuckler ()
 //notes: https://youtu.be/WAFfCNa3NdQ
 dimwishlist:item=2988121501&perks=1631667848,4082225868
 
-
 // Out of Bounds - Demolitionist Junkie ()
 //notes: https://youtu.be/WAFfCNa3NdQ
 dimwishlist:item=2988121501&perks=3523296417,11612903
-
 
 // Out of Bounds - Kill Clip options ()
 //notes: Kill Clip options
@@ -32,15 +27,12 @@ dimwishlist:item=2988121501&perks=1428297954,1015611457
 dimwishlist:item=2988121501&perks=2450788523,1015611457
 dimwishlist:item=2988121501&perks=1570042021,1015611457
 
-
 // Out of Bounds - Killing Wind and Rangefinder ()
 //notes: https://youtu.be/WAFfCNa3NdQ
 dimwishlist:item=2988121501&perks=2450788523,2846385770
 
-
 // Out of Bounds - Demo and Golden Tricorn ()
 dimwishlist:item=2988121501&perks=3523296417,2610012052
-
 
 // Fatebringer - Osmosis Junkie ()
 //notes: Osmosis Junkie
@@ -54,10 +46,8 @@ dimwishlist:item=1216319404&perks=3038247973,3824105627
 //notes: Osmosis Junkie
 dimwishlist:item=1216319404&perks=1774574192,11612903
 
-
 // Lingering Dread - Auto-Loading Blinding Chill Clip ()
 dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
-
 
 // The Militia's Birthright (Adept) - Auto-Loading ()
 //notes: From comments on: https://youtu.be/DdLsyLVDGEQ
@@ -68,22 +58,10 @@ dimwishlist:item=2378101424&perks=409831596,706527188,3300816228
 dimwishlist:item=2378101424&perks=3301904089,2039302152,3300816228
 dimwishlist:item=2378101424&perks=3301904089,706527188,3300816228
 
-
 // Unforgiven - Golden Tricorn, hopefully with Demolitionist ()
 //notes: Golden Tricorn, hopefully with Demolitionist
 dimwishlist:item=3000847393&perks=2610012052
 dimwishlist:item=3000847393&perks=3523296417,2610012052
-
-
-
-
-// Mechabre - Dmg perks ()
-//notes: Dmg perks
-dimwishlist:item=1280894514&perks=3300816228,1546637391
-dimwishlist:item=1280894514&perks=3300816228,4082225868
-dimwishlist:item=1280894514&perks=3400784728,1546637391
-dimwishlist:item=1280894514&perks=3400784728,4082225868
-
 
 // Typhon GL5 - Proximity & Impulse ()
 //notes: Decent in PvP
@@ -92,22 +70,18 @@ dimwishlist:item=3568377122&perks=3525010810,409831596,951095735
 dimwishlist:item=3568377122&perks=981914802,409831596,951095735
 dimwishlist:item=3568377122&perks=3798852852,409831596,951095735
 
-
 // Lodbrok-C - Target Lock ()
 //notes: https://www.youtube.com/watch?v=H5nzfJw25JU
 dimwishlist:item=2328531378&perks=365154968
-
 
 // High Albedo - Headseeker ()
 //notes: https://youtu.be/w2i5nKECw2Y
 dimwishlist:item=1197486957&perks=460017080
 
-
 // Wendigo GL3 (Adept) - Explosive Light ()
 //notes: Prefer high velocity/handling, as low blast radius as possible, and Spike Grenades, but these are all minor increases. https://youtu.be/PQ9X1NMkjWw
 dimwishlist:item=555148853&perks=3300816228,3194351027
 dimwishlist:item=555148853&perks=2869569095,3194351027
-
 
 // Fioritura-59 - Pugilist with Void ()
 //notes: Repulsor Brace for overshields or Golden Tricorn for easy dmg. High range preferred. https://youtu.be/A5LEkPuoEBI
@@ -125,12 +99,10 @@ dimwishlist:item=3138208275&perks=124408337
 https://youtu.be/mD3oNeEfv2o @1.00 (also Desperado @6.08)
 dimwishlist:item=3138208275&perks=1890422124
 
-
 // Battle Scar ()
 //notes: Kinetic Tremors + Shoot To Loot
 //notes: https://www.youtube.com/watch?v=yg2b8pFNHE8
 dimwishlist:item=2099894368&perks=3700496672,3891536761
-
 
 // Harsh Language ()
 //notes: Envious Assassin shenanigans. https://youtu.be/zDDYlM3bE_o
@@ -164,7 +136,6 @@ dimwishlist:item=1389546626&perks=1365187766,831391274
 dimwishlist:item=1389546626&perks=1365187766,3038247973
 dimwishlist:item=1389546626&perks=2387244414,3751912585
 
-
 // Nessa's Oblation ()
 //notes: https://youtu.be/B4848uKLihM
 dimwishlist:item=135029084&perks=791862061,3523296417,4104185692
@@ -176,13 +147,6 @@ dimwishlist:item=522366885&perks=791862061,3523296417,4104185692
 // Long Arm ()
 //notes: https://youtu.be/B3cqENPb0-0?t=260
 dimwishlist:item=8293111&perks=1866048759,3038247973
-
-// Just In Case ()
-dimwishlist:item=1139727256&perks=3666208348,3108830275,4293542123
-
-// Cold Comfort ()
-dimwishlist:item=839786290&perks=968510818,3078487919
-dimwishlist:item=839786290&perks=968510818,3194351027
 
 // Randy's Throwing Knife ()
 //notes: https://youtu.be/jfXFHgz7UU4
